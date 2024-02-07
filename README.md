@@ -1,1 +1,1 @@
-My portfolio is https://github.com/ThreadPoll/khushboo_kumar.git
+My portfolio is https://threadpoll.github.io/khushboo_kumar/
